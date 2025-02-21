@@ -11,17 +11,17 @@ Este script em Python faz requisições à API do OpenWeatherMap para obter a te
 ## Instalação
 
 1. Clone este repositório:  
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   - git clone https://github.com/seu-usuario/nome-do-repositorio.git 
+   - cd nome-do-repositorio
 
-2. Instale a dependência necessária:
-   pip install requests
+3. Instale a dependência necessária:
+   - pip install requests
 
-3. Faça login no site da OpenWeather(https://openweathermap.org) e colete sua chave da API.
+4. Faça login no site da OpenWeather(https://openweathermap.org) e colete sua chave da API.
 
-4. Substitua "SUA_API_KEY_AQUI" pela sua chave da API OpenWeatherMap no código.
+5. Substitua "SUA_API_KEY_AQUI" pela sua chave da API OpenWeatherMap no código.
 
 ## Como Executar
 
 Basta rodar o script Python:
-  python script.py
+  - python script.py
